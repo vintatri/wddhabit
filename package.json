@@ -1,6 +1,3 @@
-// Arquivo 1: package.json
-// Este arquivo lista todas as "peças" (dependências) que nosso app precisa.
-
 {
   "name": "cannabis-monitor",
   "version": "1.0.0",
