@@ -24,17 +24,3 @@
   "private": true
 }
 ```json
-// Arquivo 2: eas.json
-// Este arquivo dá as instruções de como construir a versão Android.
-
-{
-  "build": {
-    "preview": {
-      "android": {
-        "buildType": "apk"
-      }
-    },
-    "production": {}
-  }
-}
-
